@@ -1,0 +1,6 @@
+ 
+ //Create basic express app.
+ express --view=pug period2
+
+//
+ set DEBUG=period2:* & npm start
